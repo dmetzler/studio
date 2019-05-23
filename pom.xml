@@ -8,7 +8,7 @@
 
   <groupId>org.nuxeo.dmetzler</groupId>
   <artifactId>studio-parent</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>Studio parent</name>
   <description></description>
   <packaging>pom</packaging>
